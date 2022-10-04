@@ -1,10 +1,18 @@
 # Computer Science for JavaScript: Regex Tutorial
 
-## Your Task
+## Description
 
-Developers write code, but they also *write about code*. Take a moment to search the web for tutorials about any of the subjects you’ve learned so far in this course. You’re likely to find thousands of tutorials written by developers of all skill levels, including junior developers&mdash;like yourself!
+A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
 
-Your assignment this week is to create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. You'll use the template provided in the starter code to create your walkthrough.
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Contact](#contact)
 
 ## User Story
 
@@ -26,3 +34,28 @@ WHEN I read through each section of the tutorial
 THEN I find a detailed explanation of what a specific component of the regex does
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
+```
+
+## Installation
+
+No specific tools/packages to install in order to view the tutorial.
+
+## Usage
+
+Users can view the tutorial from the Github Repository of on the Github Gist page.
+
+## License
+
+MIT
+
+## Contributors
+
+Huw Richmond
+
+## Tests
+
+None
+
+## Contact
+
+[GitHub](https://github.com/HuwRichmond)
